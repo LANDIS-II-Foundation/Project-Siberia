@@ -1,0 +1,54 @@
+LandisData  "Dynamic Fuel System"
+
+Timestep  1
+
+>> 		 Fuel 
+>> Species 	 Coefficient 
+>> -------- 	----------- 
+   abiesibi 	1.0
+   piceobov 	1.0
+   pinusylv 	1.0
+   pinusibi		1.0
+   larisibi 	1.0
+   betupend 	1.0
+   poputrem		1.0
+   betunana		1.0
+   alnufrut		1.0
+   salixspp		1.0
+   groundveg	1.0
+   genegrss		1.0
+   sphagnum		1.0
+   
+HardwoodMaximum 25
+
+DeadFirMaxAge 30  
+>> this paramater was needed so had to uncomment it out.
+
+
+
+FuelTypes
+>> Fuel Type  BaseFuel  		Age Range	Species
+>> ---------  --------     		---------	----------
+      2		Conifer				0 to 40		abiesibi piceobov pinusibi    		<<C2: boreal spruce (young). Likely only the dominant fuel type on a small proportion of cells because most dark con forests tend teoward multi-aged or uneven-aged
+	  3		Conifer				41 to 280	abiesibi piceobov pinusibi			<<C2: mature, moderately-stocked black spruce analog, but not present on sphagnum surface.
+      5 	Conifer				0 to 40		pinusylv larisibi					<<C4: immature pine and larch, likely to regenerate at high stand densities following fire. Siberian pine removed from this category now that a separate young dark conifer class exists
+	  8 	Conifer				41 to 300	pinusylv larisibi					<<C7: could go either way, but the structure and fire resistance in Scots pine / larch forests is Siberia is more consistent with open or semi-open PIPO and interior PSME stands (C7)
+      9 	Deciduous 			0 to 30	    betupend poputrem					<<D1: young deciduous, broad-leaved. Research on aspen in Canada indicates some size-related trends in mortality, even at relatively low intensities, hence creation of separate fuel classes for young and mature birch/aspen
+	  10	Deciduous 			31 to 120	betupend poputrem					<<D1: old, deciduous, broad-leaved trees
+	  11	Deciduous			0 to 120	betunana alnufrut salixspp			<<D1: all shrubs assumed to have low fire tolerance, primarily due to small diameter and low bark thickness, but leaves have low flammability
+	  19	Open				0 to 500	sphagnum							<<O-1a: model sphagnum as matted grass
+	  20	Open				0 to 500	genegrss groundveg					<<O-1b: model genegrss and groundveg as standing grass. Could adjust percent curing to reduce peak growing season flamability
+	  
+	  
+	  
+DisturbanceConversionTable
+>> Fuel Type	Duration       Disturbance Description
+>> ---------	---------	--------
+	14	10		PineClearcut PineClearcut2Larch LarchClearcut LarchClearcut2Pine <<CFBP jack or lodgepole pine slash
+	15	10		SpruceFirClearcut	<<CFBP spruce-fir slash
+	14	10		WindSeverity4 WindSeverity5	<<CFBP jack or lodgepole pine slash
+
+MapFileNames		se_landscape/FuelType-{timestep}.img
+PctConiferFileName	se_landscape/PctConifer-{timestep}.img
+PctDeadFirFileName	se_landscape/PctDeadFir-{timestep}.img
+

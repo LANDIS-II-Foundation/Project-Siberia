@@ -1,0 +1,18 @@
+LandisData EcoregionParameters	
+EcoregionParameters	Latitude	SoilType	RootingDepth	PrecLossFrac	LeakageFrac	RunoffCapture	PrecIntConst	SnowSublimFrac	WinterSTD	ClimateFileName   <<STD 18F=10C; 23.0F=13.3C          
+southeastern_loam 	  	57		LOAM		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	<<STD=9.15 at Hatanga 72N
+southeastern_siltloam 		57		SILO		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	
+southeastern_sandyloam		57		SALO		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	
+northern_loam    		57		LOAM		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	
+northern_siltloam  		57		SILO		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	
+northern_sandyloam	 	57		SALO		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	
+
+southcentral_lowlands	 	57		SALO		500		0.0		0.02		300		0.1		0.15		6.7		Plus11_weather_stream.txt	
+central_lowlands	 	57		SALO		500		0.0		0.02		300		0.1		0.15		6.7		Plus11_weather_stream.txt	
+
+>>southcentral_lowlands	 	57		MUCK		500		0.0		0.02		300		0.1		0.15		6.7		Plus11_weather_stream.txt	
+>>central_lowlands	 	57		MUCK		500		0.0		0.02		300		0.1		0.15		6.7		Plus11_weather_stream.txt	
+
+<<RunoffCapture (max mm of water above soil surface before any runoff occurs)
+
+>> SoilType based on southcentral_ecoregion_codes_with_soiltypes_051321.csv

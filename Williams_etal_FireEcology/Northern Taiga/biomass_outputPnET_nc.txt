@@ -1,0 +1,46 @@
+LandisData  "Output-PnET"
+
+Timestep  1
+
+Species		abiesibi
+			betupend
+			larisibi
+			piceobov
+			pinusibi
+			pinusylv
+			poputrem
+			betunana
+			genegrss
+			groundveg
+			sphagnum
+			
+		
+
+	  
+Biomass	output/biomass/{species}/biomass_{timestep}.img
+
+>>LeafAreaIndex  output/LeafAreaIndex/lai_{timestep}.img
+
+Establishment output/Establishments/{species}/Est_{timestep}.img
+
+EstablishmentProbability output/EstablishmentProbability/{species}/EstProb_{timestep}.img
+
+>>AnnualTranspiration output/Transpiration/Tr-{timestep}.img
+
+>>Water output/SoilWater/water_{timestep}.img
+
+>>SubCanopyPARMapNames output/SCpar/SCpar-{timestep}.img
+
+>>BelowgroundMapNames output/BGB/BGB-{timestep}.img
+
+>>WoodyDebrisMapNames output/WoodyDebris/WoodyDebris-{timestep}.img
+
+>>LitterMapNames	output/NonWoodyDebris/Litter-{timestep}.img
+
+>>AgeDistributionFileNames	output/AgeDist/Age-{timestep}.txt		<<CRASHED!!!!!!!!!!!!!!!!!
+
+>>AnnualPsn output/AnnualPsn/AnnualPsn_{timestep}.img
+
+CohortBalance		output/TotalCohorts.txt
+EstablishmentTable	output/EstablishTable.txt
+MortalityTable		output/MortalityTable.txt

@@ -1,0 +1,16 @@
+LandisData EcoregionParameters	
+EcoregionParameters	Latitude	SoilType	RootingDepth	PrecLossFrac	LeakageFrac	RunoffCapture	PrecIntConst	SnowSublimFrac	WinterSTD	ClimateFileName   <<STD 18F=10C; 23.0F=13.3C          
+southwestern_loam	  	59		LOAM		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	<<STD=6.6 at Orlik 52.5N
+southwestern_siltloam  		59		SILO		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	
+southwestern_sandyloam		59		SALO		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	
+eastern_loam  			59		LOAM		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	
+eastern_siltloam  		59		SILO		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	
+eastern_sandyloam	 	59		SALO		1000		0.15		1.00		0		0.1		0.15		6.7		Plus11_weather_stream.txt	
+
+
+northwestern_lowlands	 	59		SALO		500		0.0		0.02		300		0.1		0.15		6.7		Plus11_weather_stream.txt
+northern_lowlands	 	59		SALO		500		0.0		0.02		300		0.1		0.15		6.7		Plus11_weather_stream.txt
+
+<<RunoffCapture (max mm of water above soil surface before any runoff occurs)
+
+>> SoilType based on southeastern_ecoregion_codes_with_soiltypes_051321.csv

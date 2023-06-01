@@ -1,0 +1,2665 @@
+LandisData   "Initial Communities"
+
+MapCode 0
+
+MapCode    1 <<These were unmatched cells
+
+MapCode  411 
+larisibi 36 (5773) 
+
+MapCode  412 
+larisibi 69 (5985) 
+betupend 72 (87) 
+pinusibi 96 (1735) 
+piceobov 75 (867) 
+
+MapCode  413 
+larisibi 98 (5860) 
+
+MapCode  414 
+larisibi 152 (9290) 
+
+MapCode  415 
+pinusylv 34 (2751) 
+
+MapCode  416 
+pinusylv 70 (10035) 
+
+MapCode  417 
+larisibi 65 (577) 
+pinusibi 49 (173) 
+piceobov 65 (2191) 
+
+MapCode  418 
+larisibi 36 (1022) 
+
+MapCode  419 
+larisibi 36 (807) 
+
+MapCode  420 
+pinusylv 96 (8584) 
+
+MapCode  421 
+larisibi 69 (5456) 
+betupend 72 (634) 
+pinusibi 96 (63) 
+piceobov 75 (190) 
+
+MapCode  422 
+larisibi 173 (9156)  
+pinusibi 100 (106) 
+piceobov 75 (1065) 
+
+MapCode  423 
+larisibi 69 (6072) 
+
+MapCode  424 
+betupend 40 (2164) 
+piceobov 28 (240) 
+
+MapCode  425 
+pinusylv 100 (9927) 
+
+MapCode  426 
+
+MapCode  427 
+larisibi 36 (1022) 
+
+MapCode  428 
+larisibi 69 (753) 
+betupend 41 (1507) 
+pinusibi 96 (1507) 
+piceobov 75 (3767) 
+
+MapCode  429 
+larisibi 69 (2627) 
+pinusylv 105 (5255) 
+piceobov 81 (876) 
+
+MapCode  430 
+larisibi 69 (5456) 
+betupend 72 (634) 
+pinusibi 96 (63) 
+piceobov 75 (190) 
+
+MapCode  431 
+larisibi 173 (9156)  
+pinusibi 100 (106) 
+piceobov 75 (1065) 
+
+MapCode  432 
+larisibi 60 (1416) 
+pinusylv 49 (4743) 
+betupend 39 (708) 
+
+MapCode  433 
+poputrem 16 (793) 
+pinusylv 16 (2379) 
+betupend 16 (793) 
+
+MapCode  434 
+betupend 91 (1926) 
+abiesibi 90 (5777) 
+piceobov 91 (1926) 
+
+MapCode  435 
+larisibi 69 (5985) 
+betupend 72 (87) 
+pinusibi 96 (1735) 
+piceobov 75 (867) 
+
+MapCode  436 
+pinusylv 100 (4550) 
+betupend 97 (4550) 
+
+MapCode  437 
+betupend 36 (6708) 
+pinusibi 65 (1677) 
+
+MapCode  438 
+
+MapCode  439 
+poputrem 37 (4510) 
+pinusylv 74 (902) 
+betupend 55 (3608) 
+
+MapCode  440 
+poputrem 51 (8899) 
+pinusylv 51 (91) 
+betupend 36 (91) 
+
+MapCode  441 
+pinusylv 100 (3041) 
+betupend 97 (3041) 
+
+MapCode  442 
+betupend 55 (7804) 
+
+MapCode  443 
+poputrem 50 (434) 
+larisibi 46 (1301) 
+betupend 36 (2602) 
+
+MapCode  444 
+larisibi 65 (652) 
+pinusibi 49 (196) 
+piceobov 65 (2477) 
+
+MapCode  445 
+poputrem 16 (793) 
+pinusylv 16 (2379) 
+betupend 16 (793) 
+
+MapCode  446 
+larisibi 36 (807) 
+
+MapCode  447 
+poputrem 67 (7762) 
+betupend 95 (970) 
+abiesibi 95 (970) 
+
+MapCode  448 
+
+MapCode  449 
+pinusylv 100 (9927) 
+
+MapCode  450 
+larisibi 69 (2627) 
+pinusylv 105 (5255) 
+piceobov 81 (876) 
+
+MapCode  451 
+larisibi 69 (640) 
+abiesibi 57 (1922) 
+pinusibi 96 (640) 
+piceobov 75 (3202) 
+
+MapCode  452 
+betupend 55 (5963) 
+
+MapCode  453 
+betupend 55 (7115) 
+
+MapCode  454 
+abiesibi 97 (8599) 
+piceobov 92 (87) 
+
+MapCode  455 
+larisibi 69 (610) 
+betupend 41 (1219) 
+pinusibi 96 (1219) 
+piceobov 75 (3048) 
+
+MapCode  456 
+betupend 55 (6431) 
+
+MapCode  457 
+abiesibi 57 (5835) 
+pinusibi 96 (201) 
+piceobov 75 (671) 
+
+MapCode  458 
+pinusylv 100 (9760) 
+
+MapCode  459 
+pinusylv 96 (8584) 
+
+MapCode  460 
+betupend 36 (6822) 
+pinusibi 65 (1705) 
+
+MapCode  461 
+betupend 36 (5702) 
+pinusibi 65 (1426) 
+
+MapCode  462 
+betupend 72 (873) 
+abiesibi 57 (3493) 
+pinusibi 191 (3493) 
+piceobov 75 (873) 
+
+MapCode  463 
+pinusylv 105 (9030) 
+
+MapCode  464 
+poputrem 39 (4726) 
+
+MapCode  465 
+larisibi 69 (640) 
+abiesibi 57 (1922) 
+pinusibi 96 (640) 
+piceobov 75 (3202) 
+
+MapCode  466 
+larisibi 152 (9290) 
+
+MapCode  467 
+betupend 39 (8592) 
+
+MapCode  468 
+pinusylv 15 (1491) 
+betupend 15 (1491) 
+
+MapCode  469 
+betupend 40 (1256) 
+piceobov 28 (140) 
+
+MapCode  470 
+pinusylv 100 (4550) 
+betupend 97 (4550) 
+
+MapCode  471 
+betupend 36 (5521) 
+pinusibi 65 (1380) 
+
+MapCode  472 
+larisibi 69 (312) 
+betupend 41 (623) 
+pinusibi 96 (623) 
+piceobov 75 (1558) 
+
+MapCode  473 
+betupend 36 (4152) 
+pinusibi 65 (1038) 
+
+MapCode  474 
+poputrem 51 (5058) 
+pinusylv 51 (52) 
+betupend 36 (52) 
+
+MapCode  475 
+
+MapCode  476 
+poputrem 37 (4772) 
+pinusylv 74 (954) 
+betupend 55 (3818) 
+
+MapCode  477 
+pinusylv 15 (731) 
+betupend 15 (731) 
+
+MapCode  478 
+abiesibi 57 (8582) 
+pinusibi 96 (296) 
+piceobov 75 (986) 
+
+MapCode  479 
+larisibi 69 (312) 
+betupend 41 (623) 
+pinusibi 96 (623) 
+piceobov 75 (1558) 
+
+MapCode  480 
+larisibi 65 (577) 
+pinusibi 49 (173) 
+piceobov 65 (2191) 
+
+MapCode  481 
+betupend 36 (6822) 
+pinusibi 65 (1705) 
+
+MapCode  482 
+pinusylv 105 (5447) 
+betupend 97 (4190) 
+pinusibi 40 (4190) 
+piceobov 89 (140) 
+
+MapCode  483 
+
+MapCode  484 
+betupend 40 (1187) 
+piceobov 28 (132) 
+
+MapCode  485 
+betupend 36 (5702) 
+pinusibi 65 (1426) 
+
+MapCode  486 
+betupend 36 (6770) 
+pinusibi 65 (1693) 
+
+MapCode  487 
+pinusylv 15 (1491) 
+betupend 15 (1491) 
+
+MapCode  488 
+pinusylv 15 (657) 
+betupend 15 (657) 
+
+MapCode  489 
+pinusylv 105 (5001) 
+
+MapCode  490 
+pinusylv 100 (9760) 
+
+MapCode  491 
+pinusylv 95 (7298) 
+
+MapCode  492 
+poputrem 30 (3169) 
+
+MapCode  493 
+betupend 72 (457) 
+abiesibi 57 (1827) 
+pinusibi 190 (1827) 
+piceobov 75 (457) 
+
+MapCode  494  
+
+MapCode  495 
+poputrem 16 (957) 
+pinusylv 20 (766) 
+betupend 16 (191) 
+
+MapCode  496  
+
+MapCode  497 
+pinusylv 95 (5498) 
+
+MapCode  498 
+larisibi 65 (538) 
+pinusibi 49 (161) 
+piceobov 65 (2044) 
+
+MapCode  499 
+
+MapCode  500 
+pinusylv 70 (13805) 
+
+MapCode  501 
+betupend 39 (10269) 
+piceobov 70 (1141) 
+
+MapCode  502 
+abiesibi 97 (8599) 
+piceobov 92 (87) 
+
+MapCode  503 
+betupend 33 (798) 
+pinusibi 70 (798) 
+piceobov 75 (2393) 
+
+MapCode  504 
+betupend 40 (3980) 
+piceobov 28 (442) 
+
+MapCode  505 
+betupend 33 (325) 
+pinusibi 70 (325) 
+piceobov 75 (974) 
+
+MapCode  506 
+betupend 40 (1166) 
+piceobov 28 (130) 
+
+MapCode  507 
+pinusylv 16 (1749) 
+
+MapCode  508 
+abiesibi 32 (1504) 
+
+MapCode  509 
+larisibi 69 (120) 
+betupend 41 (239) 
+pinusibi 96 (239) 
+piceobov 75 (598) 
+
+MapCode  510 
+abiesibi 32 (839) 
+
+MapCode  511 
+larisibi 191 (1437) 
+pinusylv 191 (5676) 
+betupend 72 (72) 
+
+MapCode  512 
+betupend 91 (1926) 
+abiesibi 90 (5777) 
+piceobov 91 (1926) 
+
+MapCode  513 
+abiesibi 57 (8582) 
+pinusibi 96 (296) 
+piceobov 75 (986) 
+
+MapCode  514 
+poputrem 50 (434) 
+larisibi 46 (1301) 
+betupend 36 (2602) 
+
+MapCode  515 
+betupend 36 (4152) 
+pinusibi 65 (1038) 
+
+MapCode  516 
+larisibi 65 (895) 
+pinusibi 49 (268) 
+piceobov 65 (3400) 
+
+MapCode  517 
+poputrem 67 (7762) 
+betupend 95 (970) 
+abiesibi 95 (970) 
+
+MapCode  518 
+betupend 33 (2115) 
+pinusibi 70 (2115) 
+piceobov 75 (6344) 
+
+MapCode  519 
+larisibi 69 (120) 
+betupend 41 (239) 
+pinusibi 96 (239) 
+piceobov 75 (598) 
+
+MapCode  520 
+pinusylv 16 (719) 
+
+MapCode  521 
+larisibi 36 (15) 
+pinusylv 34 (150) 
+betupend 40 (15) 
+abiesibi 32 (752) 
+piceobov 28 (301) 
+
+MapCode  522 
+abiesibi 72 (5186) 
+pinusibi 78 (1037) 
+piceobov 79 (4149) 
+
+MapCode  523 
+pinusylv 100 (9927) 
+
+MapCode  524 
+larisibi 69 (5985) 
+betupend 72 (87) 
+pinusibi 96 (1735) 
+piceobov 75 (867) 
+
+MapCode  525 
+
+MapCode  526 
+pinusylv 50 (2751) 
+
+MapCode  527 
+larisibi 152 (9290) 
+
+MapCode  528 
+larisibi 36 (5773) 
+
+MapCode  529 
+pinusylv 100 (4192) 
+betupend 97 (4192) 
+
+MapCode  530 
+pinusylv 105 (9030) 
+
+MapCode  531 
+larisibi 199 (5539) 
+betupend 33 (2770) 
+piceobov 75 (1385) 
+
+MapCode  532 
+larisibi 173 (9156) 
+pinusibi 100 (106) 
+piceobov 75 (1065) 
+
+MapCode  533 
+betupend 55 (4269) 
+abiesibi 75 (2846) 
+
+MapCode  534 
+pinusibi 191 (11753) 
+piceobov 75 (1306) 
+
+MapCode  535 
+larisibi 36 (10367) 
+
+MapCode  536 
+pinusylv 36 (811) 
+betupend 36 (3245) 
+
+MapCode  537 
+pinusylv 50 (9345) 
+
+MapCode  538 
+larisibi 36 (10367) 
+
+MapCode  539 
+pinusylv 70 (14467) 
+
+MapCode  540  
+
+MapCode  541 
+betupend 97 (3649) 
+pinusibi 40 (2432) 
+
+MapCode  542 
+poputrem 16 (957) 
+pinusylv 20 (766) 
+betupend 16 (191) 
+
+MapCode  543 
+betupend 36 (6240) 
+pinusibi 65 (1560) 
+
+MapCode  544 
+larisibi 95 (8822) 
+betupend 95 (2521) 
+piceobov 92 (1260) 
+
+MapCode  545 
+pinusylv 15 (729) 
+betupend 15 (729) 
+
+MapCode  546 
+larisibi 199 (13848) 
+
+MapCode  547 
+larisibi 95 (8822) 
+betupend 95 (2521) 
+piceobov 92 (1260) 
+
+MapCode  548 
+betupend 36 (6240) 
+pinusibi 65 (1560) 
+
+MapCode  549 
+larisibi 118 (2912) 
+betupend 36 (59) 
+pinusibi 40 (594) 
+piceobov 89 (2377) 
+
+MapCode  550 
+pinusylv 100 (4386) 
+betupend 97 (4386) 
+
+MapCode  551 
+pinusylv 70 (15394) 
+
+MapCode  552 
+pinusylv 100 (4550) 
+betupend 97 (4550) 
+
+MapCode  553 
+poputrem 50 (434) 
+larisibi 46 (1301) 
+betupend 36 (2602) 
+
+MapCode  554 
+betupend 72 (873) 
+abiesibi 57 (3493) 
+pinusibi 191 (3493) 
+piceobov 75 (873) 
+
+MapCode  555 
+larisibi 98 (5860) 
+
+MapCode  556 
+larisibi 118 (2912) 
+betupend 36 (59) 
+pinusibi 40 (594) 
+piceobov 89 (2377) 
+
+MapCode  557 
+pinusylv 36 (481) 
+betupend 36 (1924) 
+
+MapCode  558 
+pinusylv 70 (14467) 
+
+MapCode  559 
+pinusylv 100 (12648) 
+
+MapCode  560 
+pinusylv 50 (8618) 
+
+MapCode  561 
+abiesibi 88 (6481) 
+piceobov 70 (2778) 
+
+MapCode  562 
+betupend 55 (8243) 
+
+MapCode  563 
+betupend 36 (5702) 
+pinusibi 65 (1426) 
+
+MapCode  564 
+abiesibi 57 (8582) 
+pinusibi 96 (296) 
+piceobov 75 (986) 
+
+MapCode  565 
+poputrem 51 (5058) 
+pinusylv 51 (52) 
+betupend 36 (52) 
+
+MapCode  566 
+pinusylv 76 (12450) 
+betupend 57 (1383) 
+
+MapCode  567 
+pinusylv 76 (11943) 
+betupend 57 (1327) 
+
+MapCode  568 
+larisibi 173 (13044)  
+pinusibi 100 (152) 
+piceobov 75 (1517) 
+
+MapCode  569 
+larisibi 65 (1196) 
+pinusibi 49 (359) 
+piceobov 65 (4543) 
+
+MapCode  570 
+pinusylv 95 (13641) 
+
+MapCode  571 
+pinusylv 100 (4386) 
+betupend 97 (4386) 
+
+MapCode  572 
+betupend 36 (5806) 
+pinusibi 65 (1452) 
+
+MapCode  573 
+abiesibi 32 (839) 
+
+MapCode  574 
+betupend 55 (3859) 
+abiesibi 75 (2572) 
+
+MapCode  575 
+larisibi 69 (640) 
+abiesibi 57 (1922) 
+pinusibi 96 (640) 
+piceobov 75 (3202) 
+
+MapCode  576 
+abiesibi 32 (2348) 
+
+MapCode  577 
+pinusylv 16 (3147) 
+
+MapCode  578 
+poputrem 30 (5335) 
+
+MapCode  579 
+pinusylv 76 (11943) 
+betupend 57 (1327) 
+
+MapCode  580 
+betupend 55 (4683) 
+abiesibi 75 (3122) 
+
+MapCode  581 
+pinusylv 105 (13247) 
+
+MapCode  582 
+pinusylv 100 (12648) 
+
+MapCode  583 
+larisibi 65 (1196) 
+pinusibi 49 (359) 
+piceobov 65 (4543) 
+
+MapCode  584 
+pinusylv 105 (13368) 
+betupend 97 (136) 
+pinusibi 40 (136) 
+
+MapCode  585 
+pinusylv 50 (10384) 
+
+MapCode  586 
+pinusylv 96 (8584) 
+
+MapCode  587 
+betupend 36 (5806) 
+pinusibi 65 (1452) 
+
+MapCode  588 
+larisibi 98 (12791) 
+
+MapCode  589 
+larisibi 25 (1703) 
+
+MapCode  590 
+larisibi 70 (3856) 
+abiesibi 70 (3856) 
+
+MapCode  591 
+betupend 55 (3578) 
+abiesibi 75 (2385) 
+
+MapCode  592 
+larisibi 36 (5652) 
+
+MapCode  593 
+larisibi 173 (11177)  
+pinusibi 100 (130) 
+piceobov 75 (1300) 
+
+MapCode  594 
+larisibi 69 (9114) 
+betupend 72 (132) 
+pinusibi 96 (2642) 
+piceobov 75 (1321) 
+
+MapCode  595 
+abiesibi 88 (6481) 
+piceobov 70 (2778) 
+
+MapCode  596 
+pinusylv 70 (15394) 
+
+MapCode  597 
+betupend 55 (4946) 
+abiesibi 75 (3297) 
+
+MapCode  598 
+larisibi 118 (11429) 
+betupend 59 (1270) 
+
+MapCode  599 
+pinusylv 96 (12911) 
+betupend 41 (130) 
+
+MapCode  600 
+
+MapCode  601 
+betupend 40 (1122) 
+piceobov 28 (125) 
+
+MapCode  602 
+larisibi 173 (13044)  
+pinusibi 100 (152) 
+piceobov 75 (1517) 
+
+MapCode  603 
+poputrem 30 (5335) 
+
+MapCode  604 
+betupend 40 (3779) 
+piceobov 28 (420) 
+
+MapCode  605 
+pinusylv 36 (840) 
+betupend 36 (3359) 
+
+MapCode  606 
+betupend 57 (955) 
+abiesibi 92 (8592) 
+
+MapCode  607 
+larisibi 65 (599) 
+pinusibi 49 (180) 
+piceobov 65 (2276) 
+
+MapCode  608 
+pinusibi 191 (11753) 
+piceobov 75 (1306) 
+
+MapCode  609 
+larisibi 69 (303) 
+betupend 41 (606) 
+pinusibi 96 (606) 
+piceobov 75 (1516) 
+
+MapCode  610 
+larisibi 65 (544) 
+pinusibi 49 (163) 
+piceobov 65 (2068) 
+
+MapCode  611 
+pinusylv 15 (2696) 
+betupend 15 (2696) 
+
+MapCode  612 
+pinusylv 76 (12450) 
+betupend 57 (1383) 
+
+MapCode  613 
+pinusylv 36 (781) 
+betupend 36 (3125) 
+
+MapCode  614 
+larisibi 36 (5652) 
+
+MapCode  615 
+larisibi 69 (9114) 
+betupend 72 (132) 
+pinusibi 96 (2642) 
+piceobov 75 (1321) 
+
+MapCode  616 
+pinusylv 15 (5046) 
+
+MapCode  617 
+larisibi 69 (753) 
+betupend 41 (1507) 
+pinusibi 96 (1507) 
+piceobov 75 (3767) 
+
+MapCode  618 
+poputrem 16 (2590) 
+pinusylv 20 (2072) 
+betupend 16 (518) 
+
+MapCode  619 
+pinusylv 96 (14108) 
+
+MapCode  620 
+pinusylv 98 (13247) 
+
+MapCode  621 
+pinusylv 15 (1491) 
+betupend 15 (1491) 
+
+MapCode  622 
+poputrem 37 (5809) 
+pinusylv 74 (1162) 
+betupend 55 (4647) 
+
+MapCode  623 
+poputrem 30 (3169) 
+
+MapCode  624  
+
+MapCode  625 
+abiesibi 97 (7818) 
+piceobov 92 (869) 
+
+MapCode  626 
+betupend 36 (5521) 
+pinusibi 65 (1380) 
+
+MapCode  627 
+abiesibi 88 (7178) 
+piceobov 70 (3076) 
+
+MapCode  628 
+pinusylv 50 (7757) 
+
+MapCode  629 
+larisibi 36 (1022) 
+
+MapCode  630 
+larisibi 69 (6072) 
+
+MapCode  631 
+pinusylv 105 (5447) 
+betupend 97 (4190) 
+pinusibi 40 (4190) 
+piceobov 89 (140) 
+
+MapCode  632 
+pinusylv 96 (8670) 
+pinusibi 96 (88) 
+
+MapCode  633 
+poputrem 37 (4510) 
+pinusylv 74 (902) 
+betupend 55 (3608) 
+
+MapCode  634 
+pinusylv 74 (3404) 
+
+MapCode  635 
+larisibi 69 (5456) 
+betupend 72 (634) 
+pinusibi 96 (63) 
+piceobov 75 (190) 
+
+MapCode  636 
+betupend 36 (771) 
+abiesibi 69 (6170) 
+piceobov 69 (771) 
+
+MapCode  637 
+betupend 57 (955) 
+abiesibi 92 (8592) 
+
+MapCode  638 
+larisibi 69 (3912) 
+pinusylv 96 (7825) 
+piceobov 75 (1304) 
+
+MapCode  639 
+larisibi 98 (11340) 
+
+MapCode  640 
+larisibi 65 (806) 
+pinusibi 49 (242) 
+piceobov 65 (3063) 
+
+MapCode  641 
+larisibi 114 (11453) 
+
+MapCode  642 
+larisibi 69 (4341) 
+pinusylv 105 (8683) 
+piceobov 81 (1447) 
+
+MapCode  643 
+larisibi 69 (984) 
+betupend 41 (1969) 
+pinusibi 96 (1969) 
+piceobov 75 (4922) 
+
+MapCode  644 
+betupend 57 (2253) 
+abiesibi 92 (7884) 
+piceobov 89 (1126) 
+
+MapCode  645 
+pinusylv 96 (13534) 
+betupend 41 (137) 
+
+MapCode  646 
+larisibi 185 (10810) 
+abiesibi 57 (123) 
+piceobov 75 (123) 
+
+MapCode  647 
+abiesibi 97 (9770) 
+piceobov 92 (1086) 
+
+MapCode  648 
+larisibi 69 (11314) 
+betupend 72 (164) 
+pinusibi 96 (3279) 
+piceobov 75 (1640) 
+
+MapCode  649 
+larisibi 118 (2912) 
+betupend 36 (59) 
+pinusibi 40 (594) 
+piceobov 89 (2377) 
+
+MapCode  650 
+abiesibi 103 (11102) 
+pinusibi 40 (125) 
+piceobov 81 (1247) 
+
+MapCode  651 
+betupend 36 (9334) 
+
+MapCode  652 
+betupend 29 (5870) 
+
+MapCode  653 
+poputrem 55 (13734) 
+
+MapCode  654 
+poputrem 37 (7857) 
+pinusylv 74 (1571) 
+betupend 55 (6286) 
+
+MapCode  655 
+betupend 96 (124) 
+abiesibi 96 (10899) 
+pinusibi 40 (1238) 
+piceobov 92 (124) 
+
+MapCode  656 
+
+MapCode  657 
+larisibi 69 (3899) 
+pinusylv 105 (7797) 
+piceobov 81 (1300) 
+
+MapCode  658 
+betupend 97 (7102) 
+pinusibi 40 (4735) 
+
+MapCode  659 
+poputrem 55 (8896) 
+
+MapCode  660 
+pinusylv 96 (10950) 
+betupend 41 (111) 
+
+MapCode  661 
+pinusylv 96 (12524) 
+
+MapCode  662 
+pinusylv 36 (965) 
+betupend 36 (241) 
+
+MapCode  663 
+larisibi 185 (12122) 
+abiesibi 57 (138) 
+piceobov 75 (138) 
+
+MapCode  664 
+pinusylv 16 (1136) 
+
+MapCode  665 
+larisibi 69 (173) 
+betupend 41 (346) 
+pinusibi 96 (346) 
+piceobov 75 (866) 
+
+MapCode  666 
+larisibi 173 (11468) 
+pinusibi 100 (133) 
+piceobov 75 (1334) 
+
+MapCode  667 
+betupend 40 (3650) 
+piceobov 28 (406) 
+
+MapCode  668 
+pinusylv 21 (883) 
+
+MapCode  669 
+betupend 40 (3316) 
+piceobov 28 (368) 
+
+MapCode  670 
+pinusylv 15 (549) 
+betupend 15 (549) 
+
+MapCode  671 
+larisibi 110 (12699) 
+
+MapCode  672 
+pinusylv 15 (1009) 
+betupend 15 (1009) 
+
+MapCode  673 
+pinusylv 66 (3757) 
+betupend 39 (5636) 
+
+MapCode  674 
+larisibi 65 (852) 
+pinusibi 49 (256) 
+piceobov 65 (3239) 
+
+MapCode  675 
+abiesibi 32 (2059) 
+
+MapCode  676 
+pinusylv 36 (1130) 
+betupend 36 (4520) 
+
+MapCode  677 
+larisibi 69 (269) 
+abiesibi 57 (808) 
+pinusibi 96 (269) 
+piceobov 75 (1346) 
+
+MapCode  678 
+pinusylv 15 (1326) 
+betupend 15 (1326) 
+
+MapCode  679 
+abiesibi 32 (4210) 
+
+MapCode  680 
+betupend 55 (6077) 
+abiesibi 75 (4051) 
+
+MapCode  681 
+abiesibi 92 (8290) 
+pinusibi 40 (921) 
+
+MapCode  682 
+abiesibi 32 (2580) 
+
+MapCode  683 
+pinusylv 12 (2275) 
+
+MapCode  684 
+larisibi 25 (1975) 
+
+MapCode  685 
+abiesibi 32 (3958) 
+
+MapCode  686 
+abiesibi 32 (5046) 
+
+MapCode  687 
+larisibi 36 (6028) 
+
+MapCode  688 
+
+MapCode  689 
+pinusylv 100 (12546) 
+
+MapCode  690 
+betupend 55 (9457) 
+
+MapCode  691 
+poputrem 39 (5335) 
+
+MapCode  692 
+betupend 39 (9430) 
+piceobov 70 (1048) 
+
+MapCode  693 
+betupend 36 (9074) 
+
+MapCode  694 
+pinusylv 21 (3580) 
+
+MapCode  695 
+pinusylv 15 (5301) 
+
+MapCode  696 
+poputrem 39 (5531) 
+
+MapCode  697 
+larisibi 69 (172) 
+betupend 41 (344) 
+pinusibi 96 (344) 
+piceobov 75 (860) 
+
+MapCode  698  
+
+MapCode  699 
+pinusylv 12 (3718) 
+
+MapCode  700 
+abiesibi 52 (5561) 
+piceobov 52 (1390) 
+
+MapCode  701 
+abiesibi 88 (7178) 
+piceobov 70 (3076) 
+
+MapCode  702 
+larisibi 69 (303) 
+betupend 41 (606) 
+pinusibi 96 (606) 
+piceobov 75 (1516) 
+
+MapCode  703 
+abiesibi 32 (2348) 
+
+MapCode  704  
+
+MapCode  705 
+larisibi 65 (1087) 
+pinusibi 49 (326) 
+piceobov 65 (4130) 
+
+MapCode  706 
+larisibi 98 (12791) 
+
+MapCode  707 
+betupend 40 (1050) 
+piceobov 28 (117) 
+
+MapCode  708 
+poputrem 58 (11220) 
+
+MapCode  709 
+pinusylv 21 (2276) 
+
+MapCode  710 
+pinusylv 21 (949) 
+
+MapCode  711 
+pinusylv 16 (1529) 
+
+MapCode  712 
+poputrem 67 (10483) 
+betupend 95 (1310) 
+abiesibi 95 (1310) 
+
+MapCode  713 
+poputrem 16 (1815) 
+pinusylv 20 (1452) 
+betupend 16 (363) 
+
+MapCode  714 
+pinusylv 12 (3770) 
+
+MapCode  715 
+poputrem 16 (3638) 
+pinusylv 20 (2911) 
+betupend 16 (728) 
+
+MapCode  716 
+larisibi 69 (360) 
+betupend 41 (720) 
+pinusibi 96 (720) 
+piceobov 75 (1800) 
+
+MapCode  717 
+pinusylv 16 (1749) 
+
+MapCode  718 
+betupend 36 (8025) 
+
+MapCode  719 
+larisibi 25 (1703) 
+
+MapCode  720 
+betupend 97 (6296) 
+pinusibi 40 (4198) 
+
+MapCode  721 
+larisibi 36 (31) 
+pinusylv 34 (306) 
+betupend 40 (31) 
+abiesibi 32 (1531) 
+piceobov 28 (612) 
+
+MapCode  722 
+betupend 57 (2208) 
+abiesibi 92 (7728) 
+piceobov 89 (1104) 
+
+MapCode  723 
+poputrem 15 (2019) 
+pinusylv 15 (3028) 
+
+MapCode  724 
+larisibi 69 (506) 
+betupend 41 (1011) 
+pinusibi 96 (1011) 
+piceobov 75 (2528) 
+
+MapCode  725 
+pinusylv 15 (6016) 
+
+MapCode  726 
+betupend 36 (5190) 
+
+MapCode  727 
+larisibi 36 (46) 
+pinusylv 34 (458) 
+betupend 40 (46) 
+abiesibi 32 (2292) 
+piceobov 28 (917) 
+
+MapCode  728 
+larisibi 152 (9290) 
+
+MapCode  729 
+poputrem 51 (8100) 
+pinusylv 51 (83) 
+betupend 36 (83) 
+
+MapCode  730 
+larisibi 95 (8243) 
+betupend 95 (2355) 
+piceobov 92 (1178) 
+
+MapCode  731 
+larisibi 69 (1081) 
+abiesibi 57 (3242) 
+pinusibi 96 (1081) 
+piceobov 75 (5404) 
+
+MapCode  732 
+larisibi 65 (1109) 
+pinusibi 49 (333) 
+piceobov 65 (4213) 
+
+MapCode  733 
+pinusylv 100 (9927) 
+
+MapCode  734 
+betupend 36 (9060) 
+
+MapCode  735 
+pinusylv 15 (1227) 
+betupend 15 (1227) 
+
+MapCode  736 
+larisibi 69 (4101) 
+pinusylv 96 (8202) 
+piceobov 75 (1367) 
+
+MapCode  737 
+betupend 29 (4616) 
+
+MapCode  738 
+larisibi 69 (5012) 
+pinusylv 70 (1269) 
+betupend 72 (63) 
+piceobov 75 (190) 
+
+MapCode  739 
+pinusylv 96 (8670) 
+pinusibi 96 (88) 
+
+MapCode  740 
+larisibi 173 (9156) 
+pinusibi 100 (106) 
+piceobov 75 (1065) 
+
+MapCode  741 
+poputrem 16 (793) 
+pinusylv 16 (2379) 
+betupend 16 (793) 
+
+MapCode  742 
+pinusylv 70 (10035) 
+
+MapCode  743 
+pinusylv 95 (5498) 
+
+MapCode  744 
+poputrem 67 (15043) 
+
+MapCode  745 
+abiesibi 32 (4168) 
+
+MapCode  746 
+larisibi 69 (984) 
+betupend 41 (1969) 
+pinusibi 96 (1969) 
+piceobov 75 (4922) 
+
+MapCode  747 
+betupend 55 (5963) 
+
+MapCode  748 
+pinusylv 96 (8750) 
+betupend 41 (88) 
+
+MapCode  749 
+larisibi 65 (538) 
+pinusibi 49 (161) 
+piceobov 65 (2044) 
+
+MapCode  750 
+pinusylv 100 (5429) 
+betupend 97 (5429) 
+
+MapCode  751 
+larisibi 69 (10396) 
+
+MapCode  752 
+pinusylv 100 (3440) 
+betupend 97 (3440) 
+
+MapCode  753 
+larisibi 65 (806) 
+pinusibi 49 (242) 
+piceobov 65 (3063) 
+
+MapCode  754 
+betupend 36 (6708) 
+pinusibi 65 (1677) 
+
+MapCode  755 
+larisibi 185 (10810) 
+abiesibi 57 (123) 
+piceobov 75 (123) 
+
+MapCode  756 
+betupend 40 (3316) 
+piceobov 28 (368) 
+
+MapCode  757 
+larisibi 69 (4341) 
+pinusylv 105 (8683) 
+piceobov 81 (1447) 
+
+MapCode  758 
+larisibi 25 (2205) 
+
+MapCode  759 
+poputrem 16 (2156) 
+pinusylv 20 (1725) 
+betupend 16 (431) 
+
+MapCode  760 
+betupend 57 (2253) 
+abiesibi 92 (7884) 
+piceobov 89 (1126) 
+
+MapCode  761 
+larisibi 199 (13775) 
+
+MapCode  762 
+larisibi 69 (1301)  
+pinusibi 96 (6504) 
+piceobov 75 (3902) 
+
+MapCode  763 
+pinusylv 70 (6871) 
+
+MapCode  764 
+pinusylv 15 (1093) 
+betupend 15 (1093) 
+
+MapCode  765 
+larisibi 114 (11453) 
+
+MapCode  766 
+pinusylv 21 (8585) 
+
+MapCode  767 
+poputrem 37 (4510) 
+pinusylv 74 (902) 
+betupend 55 (3608) 
+
+MapCode  768 
+betupend 36 (5521) 
+pinusibi 65 (1380) 
+
+MapCode  769 
+larisibi 69 (11314) 
+betupend 72 (164) 
+pinusibi 96 (3279) 
+piceobov 75 (1640) 
+
+MapCode  770 
+betupend 40 (1187) 
+piceobov 28 (132) 
+
+MapCode  771 
+betupend 57 (1806) 
+abiesibi 92 (6323) 
+piceobov 89 (903) 
+
+MapCode  772 
+pinusylv 40 (10578) 
+
+MapCode  773 
+poputrem 37 (7929) 
+pinusylv 74 (1586) 
+betupend 55 (6343) 
+
+MapCode  774 
+betupend 55 (12415) 
+
+MapCode  775 
+betupend 97 (8864) 
+pinusibi 40 (5909) 
+
+MapCode  776 
+betupend 55 (9540) 
+
+MapCode  777 
+larisibi 69 (16282) 
+
+MapCode  778 
+poputrem 51 (13406) 
+pinusylv 51 (137) 
+betupend 36 (137) 
+
+MapCode  779 
+betupend 36 (6305) 
+pinusibi 65 (1576) 
+
+MapCode  780 
+betupend 36 (11037) 
+
+MapCode  781 
+poputrem 67 (12435) 
+betupend 95 (1554) 
+abiesibi 95 (1554) 
+
+MapCode  782 
+poputrem 55 (1241) 
+betupend 39 (11173) 
+
+MapCode  783 
+pinusylv 36 (8462) 
+betupend 36 (2116) 
+
+MapCode  784 
+poputrem 37 (7929) 
+pinusylv 74 (1586) 
+betupend 55 (6343) 
+
+MapCode  785 
+larisibi 69 (16854) 
+
+MapCode  786 
+betupend 55 (7115) 
+
+MapCode  787 
+larisibi 69 (959) 
+betupend 41 (1919) 
+pinusibi 96 (1919) 
+piceobov 75 (4796) 
+
+MapCode  788 
+pinusylv 100 (14720) 
+
+MapCode  789 
+betupend 55 (5724) 
+abiesibi 75 (3816) 
+
+MapCode  790 
+larisibi 69 (16282) 
+
+MapCode  791 
+pinusylv 100 (14720) 
+
+MapCode  792 
+larisibi 69 (17907) 
+
+MapCode  793 
+betupend 97 (8864) 
+pinusibi 40 (5909) 
+
+MapCode  794  
+
+MapCode  795  
+
+MapCode  796 
+pinusylv 96 (14957) 
+
+MapCode  797 
+larisibi 69 (16307) 
+
+MapCode  798 
+betupend 36 (6748) 
+pinusibi 65 (1687) 
+
+MapCode  799 
+poputrem 55 (1172) 
+betupend 39 (10546) 
+
+MapCode  800 
+poputrem 67 (14582) 
+betupend 95 (1823) 
+abiesibi 95 (1823) 
+
+MapCode  801 
+abiesibi 88 (8714) 
+piceobov 70 (3735) 
+
+MapCode  802 
+larisibi 69 (4503) 
+pinusylv 105 (9006) 
+piceobov 81 (1501) 
+
+MapCode  803 
+poputrem 55 (13680) 
+
+MapCode  804 
+larisibi 65 (1075) 
+pinusibi 49 (323) 
+piceobov 65 (4086) 
+
+MapCode  805 
+poputrem 67 (14582) 
+betupend 95 (1823) 
+abiesibi 95 (1823) 
+
+MapCode  806 
+poputrem 58 (14012) 
+
+MapCode  807 
+larisibi 69 (1116) 
+betupend 41 (2231) 
+pinusibi 96 (2231) 
+piceobov 75 (5578) 
+
+MapCode  808 
+poputrem 67 (12435) 
+betupend 95 (1554) 
+abiesibi 95 (1554) 
+
+MapCode  809 
+larisibi 65 (858) 
+pinusibi 49 (257) 
+piceobov 65 (3260) 
+
+MapCode  810 
+betupend 39 (10077) 
+pinusibi 55 (234) 
+piceobov 55 (234) 
+
+MapCode  811 
+larisibi 69 (5012) 
+pinusylv 70 (1269) 
+betupend 72 (63) 
+piceobov 75 (190) 
+
+MapCode  812 
+pinusylv 15 (3321) 
+betupend 15 (3321) 
+
+MapCode  813 
+poputrem 30 (8155) 
+
+MapCode  814 
+larisibi 152 (9290) 
+
+MapCode  815 
+poputrem 55 (1059) 
+betupend 39 (9529) 
+
+MapCode  816 
+pinusylv 100 (4905) 
+betupend 97 (4905) 
+
+MapCode  817 
+pinusylv 96 (10035) 
+
+MapCode  818 
+betupend 36 (6822) 
+pinusibi 65 (1705) 
+
+MapCode  819 
+poputrem 58 (14012) 
+
+MapCode  820 
+poputrem 30 (8155) 
+
+MapCode  821  
+
+MapCode  822 
+larisibi 69 (640) 
+abiesibi 57 (1922) 
+pinusibi 96 (640) 
+piceobov 75 (3202) 
+
+MapCode  823 
+larisibi 69 (16179) 
+
+MapCode  824 
+betupend 39 (9492) 
+pinusibi 55 (221) 
+piceobov 55 (221) 
+
+MapCode  825 
+larisibi 69 (16307) 
+
+MapCode  826 
+larisibi 173 (9156) 
+pinusibi 100 (106) 
+piceobov 75 (1065) 
+
+MapCode  827 
+larisibi 69 (12654) 
+
+MapCode  828 
+betupend 39 (10182) 
+piceobov 70 (1131) 
+
+MapCode  829 
+pinusylv 100 (4905) 
+betupend 97 (4905) 
+
+MapCode  830 
+larisibi 69 (16854) 
+
+MapCode  831 
+pinusylv 96 (8584) 
+
+MapCode  832 
+poputrem 50 (434) 
+larisibi 46 (1301) 
+betupend 36 (2602) 
+
+MapCode  833 
+larisibi 69 (12987) 
+
+MapCode  834 
+larisibi 69 (934) 
+abiesibi 57 (2803) 
+pinusibi 96 (934) 
+piceobov 75 (4671) 
+
+MapCode  835 
+larisibi 69 (17907) 
+
+MapCode  836 
+pinusylv 36 (14666) 
+
+MapCode  837 
+betupend 57 (1880) 
+abiesibi 92 (6578) 
+piceobov 89 (940) 
+
+MapCode  838 
+poputrem 16 (2754) 
+pinusylv 20 (2203) 
+betupend 16 (551) 
+
+MapCode  839 
+betupend 39 (10621) 
+
+MapCode  840 
+betupend 55 (6782) 
+abiesibi 75 (4521) 
+
+MapCode  841 
+larisibi 69 (15825) 
+
+MapCode  842 
+pinusylv 96 (14670) 
+
+MapCode  843 
+betupend 55 (12706) 
+
+MapCode  844 
+betupend 36 (6748) 
+pinusibi 65 (1687) 
+
+MapCode  845 
+betupend 36 (5995) 
+pinusibi 65 (1499) 
+
+MapCode  846 
+larisibi 69 (4799) 
+pinusylv 105 (9597) 
+piceobov 81 (1600) 
+
+MapCode  847 
+pinusylv 96 (16005) 
+
+MapCode  848 
+pinusylv 96 (14856) 
+pinusibi 96 (150) 
+
+MapCode  849 
+pinusylv 70 (13481) 
+
+MapCode  850 
+abiesibi 57 (8582) 
+pinusibi 96 (296) 
+piceobov 75 (986) 
+
+MapCode  851 
+betupend 57 (2002) 
+abiesibi 92 (7007) 
+piceobov 89 (1001) 
+
+MapCode  852 
+pinusylv 105 (5388) 
+betupend 97 (55) 
+pinusibi 40 (55) 
+
+MapCode  853 
+pinusylv 100 (4231) 
+betupend 97 (4231) 
+
+MapCode  854 
+larisibi 65 (538) 
+pinusibi 49 (161) 
+piceobov 65 (2044) 
+
+MapCode  855 
+pinusylv 100 (4192) 
+betupend 97 (4192) 
+
+MapCode  856 
+betupend 39 (10367) 
+
+MapCode  857 
+larisibi 65 (895) 
+pinusibi 49 (268) 
+piceobov 65 (3400) 
+
+MapCode  858 
+pinusylv 15 (1093) 
+betupend 15 (1093) 
+
+MapCode  859 
+pinusylv 15 (6552) 
+
+MapCode  860 
+larisibi 69 (1301) 
+pinusibi 96 (6504) 
+piceobov 75 (3902) 
+
+MapCode  861 
+larisibi 69 (4799) 
+pinusylv 105 (9597) 
+piceobov 81 (1600) 
+
+MapCode  862 
+pinusylv 96 (14670) 
+
+MapCode  863 
+larisibi 69 (943) 
+betupend 41 (1886) 
+pinusibi 96 (1886) 
+piceobov 75 (4715) 
+
+MapCode  864 
+poputrem 13 (1382) 
+
+MapCode  865 
+poputrem 51 (11824) 
+pinusylv 51 (121) 
+betupend 36 (121) 
+
+MapCode  866 
+poputrem 39 (9046) 
+
+MapCode  867 
+larisibi 69 (7465) 
+betupend 72 (108) 
+pinusibi 96 (2164) 
+piceobov 75 (1082) 
+
+MapCode  868 
+abiesibi 103 (10942) 
+pinusibi 40 (123) 
+piceobov 81 (1229) 
+
+MapCode  869 
+pinusylv 15 (658) 
+betupend 15 (658) 
+
+MapCode  870 
+abiesibi 57 (10303) 
+pinusibi 96 (355) 
+piceobov 75 (1184) 
+
+MapCode  871 
+abiesibi 97 (10982) 
+piceobov 92 (1220) 
+
+MapCode  872 
+pinusylv 60 (12089) 
+
+MapCode  873 
+pinusylv 15 (830) 
+betupend 15 (830) 
+
+MapCode  874 
+larisibi 36 (37) 
+pinusylv 34 (373) 
+betupend 40 (37) 
+abiesibi 32 (1864) 
+piceobov 28 (746) 
+
+MapCode  875 
+pinusylv 70 (18015) 
+
+MapCode  876 
+larisibi 69 (4502) 
+pinusylv 105 (9004) 
+piceobov 81 (1501) 
+
+MapCode  877 
+larisibi 118 (2912) 
+betupend 36 (59) 
+pinusibi 40 (594) 
+piceobov 89 (2377) 
+
+MapCode  878 
+pinusylv 70 (13481) 
+
+MapCode  879 
+larisibi 69 (943) 
+betupend 41 (1886) 
+pinusibi 96 (1886) 
+piceobov 75 (4715) 
+
+MapCode  880 
+pinusylv 100 (9927) 
+
+MapCode  881 
+larisibi 69 (962) 
+betupend 41 (1924) 
+pinusibi 96 (1924) 
+piceobov 75 (4810) 
+
+MapCode  882 
+poputrem 16 (3024) 
+pinusylv 20 (2419) 
+betupend 16 (605) 
+
+MapCode  883 
+betupend 57 (983) 
+abiesibi 92 (8843) 
+
+MapCode  884 
+pinusylv 30 (5241) 
+betupend 30 (582) 
+
+MapCode  885 
+larisibi 69 (515) 
+betupend 41 (1031) 
+pinusibi 96 (1031) 
+piceobov 75 (2577) 
+
+MapCode  886 
+pinusylv 36 (6026) 
+
+MapCode  887 
+pinusylv 96 (16005) 
+
+MapCode  888 
+larisibi 69 (15825) 
+
+MapCode  889 
+larisibi 25 (2331) 
+
+MapCode  890 
+betupend 57 (2002) 
+abiesibi 92 (7007) 
+piceobov 89 (1001) 
+
+MapCode  891 
+pinusylv 100 (15087) 
+
+MapCode  892 
+larisibi 36 (6573) 
+
+MapCode  893 
+larisibi 65 (967) 
+pinusibi 49 (290) 
+piceobov 65 (3674) 
+
+MapCode  894 
+pinusylv 50 (7786) 
+
+MapCode  895 
+poputrem 16 (5512) 
+pinusylv 20 (4410) 
+betupend 16 (1102) 
+
+MapCode  896 
+
+MapCode  897 
+larisibi 191 (1076) 
+betupend 72 (2151) 
+pinusibi 191 (3227) 
+piceobov 75 (4303) 
+
+MapCode  898 
+betupend 72 (1205) 
+abiesibi 57 (4818) 
+pinusibi 190 (4818) 
+piceobov 75 (1205) 
+
+MapCode  899 
+larisibi 69 (4404) 
+pinusylv 105 (8809) 
+piceobov 81 (1468) 
+
+MapCode  900 
+pinusylv 15 (358) 
+betupend 15 (358) 
+
+MapCode  901 
+pinusylv 15 (904) 
+betupend 15 (904) 
+
+MapCode  902 
+larisibi 36 (40) 
+pinusylv 34 (404) 
+betupend 40 (40) 
+abiesibi 32 (2018) 
+piceobov 28 (807) 
+
+MapCode  903 
+larisibi 65 (887) 
+pinusibi 49 (266) 
+piceobov 65 (3372) 
+
+MapCode  904 
+larisibi 36 (6584) 
+
+MapCode  905 
+larisibi 65 (113) 
+pinusylv 49 (11122) 
+betupend 59 (113) 
+
+MapCode  906 
+poputrem 55 (14045) 
+
+MapCode  907 
+pinusylv 12 (4817) 
+
+MapCode  908 
+pinusylv 50 (7078) 
+
+MapCode  909 
+larisibi 36 (807) 
+
+MapCode  910 
+abiesibi 57 (8582) 
+pinusibi 96 (296) 
+piceobov 75 (986) 
+
+MapCode  911 
+larisibi 36 (6098) 
+
+MapCode  912 
+pinusylv 96 (8670) 
+pinusibi 96 (88) 
+
+MapCode  913 
+poputrem 15 (288) 
+pinusylv 15 (431) 
+
+MapCode  914 
+betupend 29 (6716) 
+
+MapCode  915 
+betupend 39 (4463) 
+pinusibi 55 (104) 
+piceobov 55 (104) 
+
+MapCode  916 
+larisibi 60 (2418) 
+pinusylv 49 (8099) 
+betupend 39 (1209) 
+
+MapCode  917 
+larisibi 36 (14) 
+pinusylv 34 (136) 
+betupend 40 (14) 
+abiesibi 32 (678) 
+piceobov 28 (271) 
+
+MapCode  918 
+pinusylv 96 (14957) 
+
+MapCode  919 
+abiesibi 97 (12080) 
+piceobov 92 (122) 
+
+MapCode  920 
+abiesibi 88 (8714) 
+piceobov 70 (3735) 
+
+MapCode  921 
+betupend 39 (10367) 
+
+MapCode  922 
+pinusylv 66 (4525) 
+betupend 39 (6788) 
+
+MapCode  923 
+pinusylv 70 (18015) 
+
+MapCode  924 
+poputrem 16 (5512) 
+pinusylv 20 (4410) 
+betupend 16 (1102) 
+
+MapCode  925 
+poputrem 37 (4510) 
+pinusylv 74 (902) 
+betupend 55 (3608) 
+
+MapCode  926  
+
+MapCode  927 
+pinusylv 12 (2785) 
+
+MapCode  928 
+larisibi 69 (167) 
+betupend 41 (333) 
+pinusibi 96 (333) 
+piceobov 75 (833) 
+
+MapCode  929 
+abiesibi 97 (10747) 
+piceobov 92 (109) 
+
+MapCode  930 
+pinusylv 36 (4418) 
+betupend 36 (1105) 
+
+MapCode  931 
+
+MapCode  932  
+
+MapCode  933 
+betupend 96 (87) 
+abiesibi 96 (7644) 
+pinusibi 40 (869) 
+piceobov 92 (87) 
+
+MapCode  934 
+pinusylv 21 (7018) 
+
+MapCode  935 
+pinusylv 96 (8584) 
+
+MapCode  936 
+pinusylv 100 (4550) 
+betupend 97 (4550) 
+
+MapCode  937 
+pinusylv 100 (9760) 
+
+MapCode  938 
+pinusylv 96 (15078) 
+pinusibi 96 (152) 
+
+MapCode  939 
+larisibi 69 (12654) 
+
+MapCode  940 
+pinusylv 96 (14670) 
+
+MapCode  941 
+larisibi 69 (15825) 
+
+MapCode  942 
+pinusylv 55 (7078) 
+
+MapCode  943 
+pinusylv 15 (4032) 
+betupend 15 (4032) 
+
+MapCode  944 
+pinusylv 16 (6552) 
+
+MapCode  945 
+pinusylv 70 (18015) 
+
+MapCode  946 
+larisibi 69 (962) 
+betupend 41 (1924) 
+pinusibi 96 (1924) 
+piceobov 75 (4810) 
+
+MapCode  947 
+pinusylv 15 (2732) 
+
+MapCode  948 
+pinusylv 50 (12089) 
+
+MapCode  949 
+larisibi 110 (1394) 
+pinusylv 76 (12544) 
+
+MapCode  950 
+larisibi 69 (344) 
+betupend 41 (688) 
+pinusibi 96 (688) 
+piceobov 75 (1719) 
+
+MapCode  951 
+poputrem 16 (2109) 
+pinusylv 20 (1687) 
+betupend 16 (422) 
+
+MapCode  952 
+larisibi 69 (12987) 
+
+MapCode  953 
+pinusylv 70 (13481) 
+
+MapCode  954 
+betupend 36 (6305) 
+pinusibi 65 (1576) 
+
+MapCode  955 
+pinusylv 66 (4922) 
+betupend 39 (7383) 
+
+MapCode  956 
+abiesibi 32 (3729) 
+
+MapCode  957 
+larisibi 65 (806) 
+pinusibi 49 (242) 
+piceobov 65 (3063) 
+
+MapCode  958 
+larisibi 69 (984) 
+betupend 41 (1969) 
+pinusibi 96 (1969) 
+piceobov 75 (4922) 
+
+MapCode  959 
+larisibi 25 (2331) 
+
+MapCode  960 
+betupend 57 (983) 
+abiesibi 92 (8843) 
+
+MapCode  961 
+poputrem 30 (5647) 
+
+MapCode  962 
+pinusylv 12 (4817) 
+
+MapCode  963 
+larisibi 65 (891) 
+pinusibi 49 (267) 
+piceobov 65 (3386) 
+
+MapCode  964 
+betupend 57 (2002) 
+abiesibi 92 (7007) 
+piceobov 89 (1001) 
+
+MapCode  965 
+larisibi 65 (967) 
+pinusibi 49 (290) 
+piceobov 65 (3674) 
+
+MapCode  966 
+larisibi 69 (1273) 
+betupend 41 (2545) 
+pinusibi 96 (2545) 
+piceobov 75 (6363) 
+
+MapCode  967 
+betupend 57 (2253) 
+abiesibi 92 (7884) 
+piceobov 89 (1126) 
+
+MapCode  968 
+pinusylv 96 (13534) 
+betupend 41 (137) 
+
+MapCode  969 
+larisibi 69 (14188) 
+
+MapCode  970 
+larisibi 69 (4341) 
+pinusylv 105 (8683) 
+piceobov 81 (1447) 
+
+MapCode  971 
+larisibi 69 (943) 
+betupend 41 (1886) 
+pinusibi 96 (1886) 
+piceobov 75 (4715) 
+
+MapCode  972 
+larisibi 69 (16307) 
+
+MapCode  973 
+larisibi 69 (4799) 
+pinusylv 105 (9597) 
+piceobov 81 (1600) 
+
+MapCode  974 
+larisibi 69 (154) 
+betupend 41 (309) 
+pinusibi 96 (309) 
+piceobov 75 (772) 
+
+MapCode  975 
+abiesibi 97 (9770) 
+piceobov 92 (1086) 
+
+MapCode  976 
+betupend 39 (10367) 
+
+MapCode  977 
+larisibi 69 (4404) 
+pinusylv 105 (8809) 
+piceobov 81 (1468) 
+
+MapCode  978 
+poputrem 12 (1701) 
+
+MapCode  979 
+larisibi 36 (46) 
+pinusylv 34 (461) 
+betupend 40 (46) 
+abiesibi 32 (2305) 
+piceobov 28 (922) 
+
+MapCode  980 
+larisibi 173 (12115)  
+pinusibi 100 (141) 
+piceobov 75 (1409) 
+
+MapCode  981 
+poputrem 39 (4472) 
+
+MapCode  982 
+poputrem 50 (489) 
+larisibi 46 (1467) 
+betupend 36 (2934) 
+
+MapCode  983 
+abiesibi 103 (10057) 
+pinusibi 40 (113) 
+piceobov 81 (1130) 
+
+MapCode  984 
+larisibi 185 (12284) 
+
+MapCode  985 
+larisibi 69 (11314) 
+betupend 72 (164) 
+pinusibi 96 (3279) 
+piceobov 75 (1640) 
+
+MapCode  986 
+pinusylv 15 (2475) 
+betupend 15 (2475) 
+
+MapCode  987 
+abiesibi 32 (2020) 
+
+MapCode  988 
+betupend 36 (9334) 
+
+MapCode  989 
+pinusylv 15 (913) 
+betupend 15 (913) 
+
+MapCode  990 
+larisibi 199 (13775) 
+
+
+MapCode  4000 
+sphagnum 30 (730) 
+
+MapCode  4411 
+sphagnum 30 (730) 
+
+MapCode  4412 
+sphagnum 30 (730) 
+
+MapCode  4413 
+sphagnum 30 (730) 
+
+MapCode  4414 
+sphagnum 30 (730) 
+
+MapCode  4415 
+sphagnum 30 (730) 
+
+MapCode  4423 
+sphagnum 30 (730) 
+
+MapCode  4427 
+sphagnum 30 (730) 
+
+MapCode  4429 
+sphagnum 30 (730) 
+
+MapCode  4430 
+sphagnum 30 (730) 
+
+MapCode  4446 
+sphagnum 30 (730) 
+
+MapCode  4641 
+sphagnum 30 (730) 
+
+MapCode  4645 
+sphagnum 30 (730) 
+
+MapCode  4646 
+sphagnum 30 (730) 
+
+MapCode  4663 
+sphagnum 30 (730) 
+
+MapCode  4672 
+sphagnum 30 (730) 
+
+MapCode  4678 
+sphagnum 30 (730) 
+
+MapCode  4714 
+sphagnum 30 (730) 
+
+MapCode  4715 
+sphagnum 30 (730) 
+
+MapCode  4716 
+sphagnum 30 (730) 
+
+MapCode  4721 
+sphagnum 30 (730) 
+
+MapCode  4730 
+sphagnum 30 (730) 
+
+MapCode  4833 
+sphagnum 30 (730) 
+
+MapCode  5000 
+groundveg 30 (163) 
+
+MapCode  6000 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6822 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6824 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6826 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6828 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6830 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6832 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6834 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6836 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6838 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6840 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6844 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6846 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6848 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6850 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6852 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6854 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6856 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6858 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6864 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6866 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6868 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6870 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6874 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6876 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6882 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6886 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6888 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6890 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6892 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6894 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6896 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6898 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6900 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6908 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6914 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6916 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6920 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6926 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6928 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6930 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6944 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6954 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6968 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6978 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6982 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6986 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  6994 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7014 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7016 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7022 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7024 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7028 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7038 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7042 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7146 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7280 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7282 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7292 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  7356 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+
+MapCode  10000 
+alnufrut 30 (5430) 
+salixspp 30 (3778) 
+sphagnum 30 (730) 
+

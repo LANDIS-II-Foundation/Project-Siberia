@@ -1,0 +1,48 @@
+LandisData  "Output Biomass Reclass"
+
+Timestep   5
+
+ReclassMaps
+
+>> Map Name	Forest Type	Species	
+>> --------	-------------	-------
+>>Plant Functional Types for comparison with CLM-FATES vegetation outputs
+
+PFTs ->	NeedleleafEvrgr		abiesibi piceobov pinusibi pinusylv 
+		NeedleleafDecid		larisibi 							
+		BroadleafDecid		poputrem betupend
+		BroadlfDecShrub		betunana alnufrut salixspp
+		C3CoolGrass			genegrss
+		Moss				sphagnum groundveg
+
+DominantSpp ->	Pine			pinusylv 
+		Spruce					piceobov
+		Fir						abiesibi
+		Larch					larisibi
+		AspenBirch				poputrem betupend
+		Kedar					pinusibi
+		DecidWet				alnufrut salixspp
+		Shrub					betunana 
+		Groundherb				groundveg
+		Sphagnum				sphagnum 
+		Grassland				genegrss
+
+RussianType ->	DarkConif	abiesibi piceobov pinusibi
+		Deciduous			poputrem betupend
+		WetlandForest		alnufrut salixspp sphagnum
+		TundraShrub			betunana
+		LightConif			pinusylv larisibi 
+		Steppe				genegrss
+		Mossherb			sphagnum groundveg 
+
+FireStrategy -> Resisters	larisibi pinusylv
+		Avoiders			abiesibi piceobov pinusibi 
+		Endurers			betupend poputrem
+		ShrubEndur			betunana alnufrut salixspp
+		GroundAvoid			sphagnum
+		GroundEndur			groundveg genegrss 	
+
+MapFileNames   output/reclass/{reclass-map-name}-{timestep}.img	
+
+
+

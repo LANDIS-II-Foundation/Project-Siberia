@@ -1,0 +1,40 @@
+LandisData     Scenario
+
+Duration       85
+
+Species        species_Sib_nc.txt		
+
+Ecoregions     ecoregions_nc.txt		
+EcoregionsMap  cSib_northcentral_ecoregion_051821.tif		
+
+CellLength     150  << meters
+
+>>  Succession Extension    Initialization File
+>> ----------------------   -------------------
+   "PnET-Succession"        PnETbiosuccession_nc.txt		
+
+
+>> Disturbance Extensions   	Initialization File
+>> ----------------------   	-------------------
+   "Dynamic Fuel System"		dynamic-fuels-setup_nc.txt
+   "BFOLDS Fire Regime Module"	bfolds_nc.txt
+
+>> DisturbancesRandomOrder  yes  << optional parameter; default = no
+
+
+>>    Other Extensions      Initialization File
+>> ----------------------   -------------------
+	"Output-PnET"	    		biomass_outputPnET_nc.txt
+	"Output Biomass Reclass"	biomass_reclass_nc.txt
+	"Output Biomass Community"	biomass_community_nc.txt
+
+>>RandomNumberSeed  2424  << seed for Rep 1
+RandomNumberSeed  4824  << seed for Rep 2
+>>RandomNumberSeed  6842  << seed for Rep 3
+>>RandomNumberSeed  8642  << seed for Rep 4
+>>RandomNumberSeed  5866  << seed for Rep 5
+>>RandomNumberSeed  6228  << seed for Rep 6
+>>RandomNumberSeed  7198  << seed for Rep 7
+>>RandomNumberSeed  8882  << seed for Rep 8
+>>RandomNumberSeed  9541  << seed for Rep 9
+>>RandomNumberSeed  10084  << seed for Rep 10

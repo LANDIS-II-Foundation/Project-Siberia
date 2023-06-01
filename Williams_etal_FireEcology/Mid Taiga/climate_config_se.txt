@@ -1,0 +1,17 @@
+LandisData "Climate Config"
+
+ClimateTimeSeries		Daily_SequencedYears
+ClimateFile				southeastern_rand_clim_inputs_13_dec_21_CO2_385_2014_add.csv
+ClimateFileFormat		Daily_Temp-C_Precip-mmDay
+
+SpinUpClimateTimeSeries	Daily_RandomYears
+SpinUpClimateFile		southeastern_rand_clim_inputs_13_dec_21_CO2_385_2014_add.csv
+SpinUpClimateFileFormat	Daily_Temp-C_Precip-mmDay
+
+UsingFireClimate		yes
+FineFuelMoistureCode	85
+DuffMoistureCode		6
+DroughtCode				15
+FirstDayFire			90  <<code to April 1
+LastDayFire				320 <<code to Nov 1
+AtmosphericPressure		100

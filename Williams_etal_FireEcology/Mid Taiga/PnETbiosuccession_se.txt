@@ -1,0 +1,22 @@
+LandisData  "PnET-Succession"											
+											
+PnET-Succession		Value											
+>>-----------------------------										
+Timestep  		1
+StartYear		2014																
+										
+SeedingAlgorithm  			WardSeedDispersal											
+											
+InitialCommunities      	cSib_IC_text_file_reg3_120221.txt	 	<<local input file									
+InitialCommunitiesMap   	IC_Map_NewMapCodes_southeastern-2021-12-02.tif		<<local input file
+PnETGenericParameters		Sib_GenericPnETSpeciesParameters.txt		<<common input file accessed locally
+
+PnETSpeciesParameters		SpeciesParameters_022422_se.txt			<<common input file accessed locally
+
+EcoregionParameters			ecoregion_parameters_se.txt		        <<local input file											
+
+ClimateConfigFile			climate_config_se.txt				<<local input file
+
+SaxtonAndRawlsParameters 	SaxtonAndRawlsParameters.txt			<<common input file accessed locally
+
+FrostFactor					0.6

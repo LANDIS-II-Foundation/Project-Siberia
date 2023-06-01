@@ -1,0 +1,41 @@
+LandisData     Scenario
+
+Duration       86
+
+Species        species_Sib_se.txt		
+
+Ecoregions     ecoregions_se.txt		
+EcoregionsMap  cSib_southeastern_ecoregion_051821.tif		
+
+CellLength     150  << meters
+
+>>  Succession Extension    Initialization File
+>> ----------------------   -------------------
+   "PnET-Succession"        PnETbiosuccession_se.txt		
+
+
+>> Disturbance Extensions   	Initialization File
+>> ----------------------   	-------------------
+   "Dynamic Fuel System"		dynamic-fuels-setup_se.txt
+   "BFOLDS Fire Regime Module"	bfolds_se.txt
+   "Biomass Harvest"  			SE_harvest_thinning_TB.txt
+
+>> DisturbancesRandomOrder  yes  << optional parameter; default = no
+
+
+>>    Other Extensions      Initialization File
+>> ----------------------   -------------------
+	"Output-PnET"	    		biomass_outputPnET_se.txt
+	"Output Biomass Reclass"	biomass_reclass_se.txt
+	"Output Biomass Community"	biomass_community_se.txt
+
+RandomNumberSeed  24689  << seed for Rep 12
+>>RandomNumberSeed  93167  << seed for Rep 13
+>>RandomNumberSeed  66666  << seed for Rep 16
+>>RandomNumberSeed  11111  << seed for Rep 19
+>>RandomNumberSeed  91495  << seed for Rep 22
+>>RandomNumberSeed  46622  << seed for Rep 25
+>>RandomNumberSeed  91468  << seed for Rep 27
+>>RandomNumberSeed  111999  << seed for Rep 31
+>>RandomNumberSeed  363546  << seed for Rep 38
+>>RandomNumberSeed  88866644  << seed for Rep 42

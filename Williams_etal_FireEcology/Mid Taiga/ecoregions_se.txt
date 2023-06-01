@@ -1,0 +1,17 @@
+LandisData  Ecoregions
+
+>>         Map
+>> Active  Code  Name   Description
+>> ------  ----  -----  -----------
+      no    0   eco0   				"inactive"
+      yes   1   southwestern_loam	        "active"
+      yes   2   southwestern_siltloam	        "active"	
+      yes   3   southwestern_sandyloam   	"active"
+	
+      yes   4   eastern_loam 			"active"
+      yes   5   eastern_siltloam	        "active"
+      yes   6   eastern_sandyloam	        "active" 	
+
+      yes   7   northwestern_lowlands   	"active"	
+      yes   8   northern_lowlands 		"active"  	
+  	

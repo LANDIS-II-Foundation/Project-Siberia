@@ -1,0 +1,27 @@
+LandisData PnETGenericParameters
+PnETGenericParameters 		Value
+MaxCanopyLayers				3
+>>MaxDevLyrAv 				10000
+LayerThreshRatio			0.5
+>>WUEcnst					10.9
+IMAX						5
+InitialNSC					7  
+DNSC						0.05 	<<target NSCfraction
+>>MaintResp					0.002
+>>FracBelowG				0.33
+>>TOroot					0.02 
+>>TOwood					0.01 
+PrecipEvents				9
+PreventEstablishment		false
+Wythers						true
+DTEMP						true
+>>CO2HalfSatEff				0.0
+Permafrost					true
+LeakageFrostDepth  			3000
+MaxPest						0.1
+>>PermafrostMinVegBiomass	4000
+EvapDepth					25		<<20-25 mm ~1 inch?
+CohortBinSize				10
+InitialCommunitiesSpinup	Spinup 	<<NoSpinup, SpinupLayers
+
+Parallel					8		<<specify in PnET-Succ input file

@@ -1,0 +1,60 @@
+LandisData  "Output Biomass Reclass"
+
+Timestep   10
+
+ReclassMaps
+
+>> Map Name	Forest Type	Species	
+>> --------	-------------	-------
+>>Plant Functional Types for comparison with CLM-FATES vegetation outputs
+ PFTs ->	NeedleLfEvrgrN	piceobov pinusibi <<Use intuitive map names; they will be pasted into map file names; output folder will have hundreds of maps, so it helps to have intitive names
+		NeedleLfEvrgrS	abiesibi pinusylv 
+		NeedleLfDecid	larisibi 		
+		BroadleafDecid	poputrem betupend
+		BroadlfDecShrbN	betunana	 
+		BroadlfDecShrbS	alnufrut salixspp
+		C3ArcticGrass	groundveg 
+		C3CoolGrass	genegrss
+		SphagnumMoss	sphagnum <<-abiesibi -piceobov -pinusibi 
+
+>>This map may be deemed unnecessary and commented out
+ DominantSpp ->	Pine		pinusylv 
+		Spruce		piceobov
+		Fir		abiesibi
+		Larch		larisibi
+		AspenBirch	poputrem betupend
+		Kedar		pinusibi
+		DecidWet	alnufrut salixspp <<alnuglut 
+		Shrub		betunana 
+		ArcticGrass	groundveg <<-abiesibi -piceobov -pinusibi 
+		Sphagnum	sphagnum 
+		SteppeGrass	genegrss
+>>		ConifWet	sphagnum pinusibi 
+
+ RussianType ->	DarkConif	abiesibi piceobov pinusibi
+		Deciduous	poputrem betupend
+		WetlandForest	alnufrut salixspp sphagnum	<<alnuglut
+		TundraShrub	betunana
+		LightConif	pinusylv larisibi 
+		Steppe		genegrss
+		Moss		groundveg <<-abiesibi -piceobov -pinusibi 
+
+>>To generate a map of IC forest types needed to produce values for the Harvest Implementation Tables
+ HarvestType ->	Pine		pinusylv 	<<There is a harvest Rx targested to each type listed here (except non-timber)
+		Spruce		piceobov
+		Fir		abiesibi
+		Larch		larisibi
+		AspenBirch	poputrem betupend
+		Kedar		pinusibi
+		NonTimber	betunana alnufrut salixspp genegrss sphagnum groundveg	<<alnuglut
+
+FireStrategy -> Resisters	larisibi pinusylv
+		Avoiders	abiesibi piceobov pinusibi sphagnum 
+		Endurers	betupend poputrem genegrss
+		ShrubEndur	betunana alnufrut salixspp 
+		GroundEndur	groundveg 	<<groundveg could be added to ShrubEndur instead
+
+MapFileNames   output/reclass/{reclass-map-name}-{timestep}.img	<<output is folder name used by other output extensions; reduced length of map filenames-include only non-redundant info
+
+
+
